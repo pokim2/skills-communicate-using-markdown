@@ -15,3 +15,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] 1) List syntax is required
+- [x] 2) his item is complete
+- [ ] 3) This item is not complete]
+- [ ] 4) sample item 4
+
+
